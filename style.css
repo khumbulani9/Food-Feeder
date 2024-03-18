@@ -1,0 +1,67 @@
+*{
+  padding: 0;
+  margin:: 0;
+  box-sizing: border-box;
+}
+.navbar-brand{
+  font-size: 2rem;
+  colour: red; 
+
+}
+.navbar-brand:hover{
+  colour: blue;
+  font-family: "Madimi One", sans-serif;
+}
+.nav-link{
+  margin-right: 10px;
+  margin-left: 10px;
+  colour: blue;
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: uppercase;
+}
+.nav-link:hover{
+  colour: blue;
+}
+.serach{
+height: 40px;
+width:85%;
+border-radius: 62px;
+outline: none;
+border: 2px solid rgb(rgb(69, 69, 95));
+}
+.btn{
+  height:40px;
+  width: 40%;
+  outline: none;
+  border: none;
+  background: red;
+  colour: whitesmoke;
+  border-radius: 60px;
+  font-weight: 700;
+  }
+  .main{
+    background: url(https://thepaleodiet.com/wp-content/uploads/2023/05/Fruit-e1685128440565.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position:48% 52%;
+    width: 100% 
+ }
+.main h1{
+  font-size: 4rem;
+  font-weight: 700;
+font-family: ;
+}
+.btn1{
+  height: 45px;
+  width: 35%;
+  border: none;
+  outline: none;
+  background-color: rgb(102, 101, 110);
+  colour: whitesmoke;
+  font-weight: 700;
+  border-radius: 60px;
+  text-decoration: rgb(55, 54, 79);
+
+}

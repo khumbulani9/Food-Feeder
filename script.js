@@ -1,0 +1,1 @@
+<a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a> 

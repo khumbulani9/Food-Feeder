@@ -62,6 +62,30 @@ font-family: ;
   colour: whitesmoke;
   font-weight: 700;
   border-radius: 60px;
-  text-decoration: rgb(55, 54, 79);
-
+  text-decoration: rgb(58, 56, 120);
 }
+.btn1:hover{
+  background-color: rgb(138, 45, 45);
+  transition: 0.5s;
+}
+h1{
+  font-weight: 70;
+  }
+.card:hover{
+  box-shadow: 10px 10px 20px 16px rgba(127, 95, 95, 0.69);
+-webkit-box-shadow: 10px 10px 20px 16px rgba(0,0,0,0.69);
+-moz-box-shadow: 10px 10px 20px 16px rgba(0,0,0,0.69);
+transition: 0.9s;
+}
+.apple{
+  background: url(./banner-6.jpg)no-repeat;
+  background-size: cover;
+  height: 80vh;
+  width: 100%;
+}
+.apple h1{
+  font-family: 'Lobster', cursive;
+}
+
+  
+

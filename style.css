@@ -46,7 +46,7 @@ border: 2px solid rgb(rgb(69, 69, 95));
     background-size: cover;
     height: 100vh;
     background-position:48% 52%;
-    width: 100% 
+    width: 100%;
  }
 .main h1{
   font-size: 4rem;
@@ -85,6 +85,32 @@ transition: 0.9s;
 }
 .apple h1{
   font-family: 'Lobster', cursive;
+}
+.news{
+  background-color: rgb(85, 85, 158);
+  colour: whitesmoke;
+}
+.btn2{
+  height:45px;
+  width:100px;
+  background:white;
+  margin-left: -10px;
+  border: 2px solid rgb(187, 128, 128);
+  font-weight: 600;
+}
+.news input{
+height: 45px;
+width: 55%;
+border: 2px solid rgb(140, 74, 74);
+outline: none;
+background: black;
+colour: rgb(27, 25, 25);
+margin-top: 20px;
+font-weight: 600;
+}
+.news::placeholder{
+  color: rgb(44, 39, 39);
+
 }
 
   

@@ -21,7 +21,7 @@ For this Assignment, we will be working on a responsive E commerce food website,
 
 ## Link to Site
 
-This site can be accessed on GitPages [HERE]()
+This site can be accessed on GitPages [https://khumbulani9.github.io/Food-Feeder/]
 
 ## Credits
 

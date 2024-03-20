@@ -6,7 +6,7 @@ With your team, you'll conceive and execute a design that solves a real-world pr
 * [Description of the assignment](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Link to the Site][https://khumbulani9.github.io/Food-Feeder/]
+* [Link to the Site] [https://khumbulani9.github.io/Food-Feeder/]
 * [Credits](#credits)
 * [License](#license)
 

@@ -26,8 +26,6 @@ For this Assignment, we will be working on a responsive E commerce food website,
 
 ![Screenshot 2024-03-22 164249](https://github.com/khumbulani9/Food-Feeder/assets/146132836/eb7f7a76-a011-49bd-ac1c-55c149165444)
 
-(https://github.com/khumbulani9/Food-Feeder/assets/146132836/ae27cfb2-262f-486c-9c6d-40337bf343c8)
-
 (![Screenshot 2024-03-22 164249](![Screenshot 2024-03-22 164813](https://github.com/khumbulani9/Food-Feeder/assets/146132836/bcd6d54c-802c-447c-b46b-41d97bc520cf)
 
 ![Screenshot 2024-03-22 164826](https://github.com/khumbulani9/Food-Feeder/assets/146132836/56f916d9-d88f-46d9-b33b-dcd0ee4cc9d8)

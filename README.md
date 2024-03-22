@@ -20,17 +20,17 @@ For this Assignment, we will be working on a responsive E commerce food website,
 
 ## Screenshots
 
+![Screenshot 2024-03-22 164213](https://github.com/khumbulani9/Food-Feeder/assets/146132836/6398036f-5912-4f2f-b57e-2d6095c04537)
 
-#### 
+![Screenshot 2024-03-22 164233](https://github.com/khumbulani9/Food-Feeder/assets/146132836/7adf005e-f766-402b-a4f6-ea22bff145c4)
+
+![Screenshot 2024-03-22 164249](https://github.com/khumbulani9/Food-Feeder/assets/146132836/eb7f7a76-a011-49bd-ac1c-55c149165444)
+
 (https://github.com/khumbulani9/Food-Feeder/assets/146132836/ae27cfb2-262f-486c-9c6d-40337bf343c8)
-
 
 (![Screenshot 2024-03-22 164249](![Screenshot 2024-03-22 164813](https://github.com/khumbulani9/Food-Feeder/assets/146132836/bcd6d54c-802c-447c-b46b-41d97bc520cf)
 
-
-(![Screenshot 2024-03-22 164813](https://github.com/khumbulani9/Food-Feeder/assets/146132836/9582d0c4-8e4b-41c6-99fd-929b3d0f6356)
-
-(![Screenshot 2024-03-22 164249](![Screenshot 2024-03-22 164826](https://github.com/khumbulani9/Food-Feeder/assets/146132836/1c2a5b78-393d-44e0-84cf-9d4003d27c9a)
+![Screenshot 2024-03-22 164826](https://github.com/khumbulani9/Food-Feeder/assets/146132836/56f916d9-d88f-46d9-b33b-dcd0ee4cc9d8)
 
 
 (![Screenshot 2024-03-22 164249](![Screenshot 2024-03-22 164839](https://github.com/khumbulani9/Food-Feeder/assets/146132836/10897d9e-a9cb-412d-8f1f-1a0cfa595f7d)

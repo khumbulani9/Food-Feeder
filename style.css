@@ -1,5 +1,4 @@
-*
-{
+*{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -22,8 +21,9 @@
   font-style: normal;
   text-transform: uppercase;
 }
-.nav-link:hover{
-  colour: blue;
+.nav-link:hover
+{
+colour: blue;
 }
 .serach{
 height: 40px;
@@ -42,62 +42,64 @@ border: 2px solid rgb(rgb(69, 69, 95));
   border-radius: 60px;
   font-weight: 700;
   }
-  .main{
+  .main
+  {
     background: url(https://thepaleodiet.com/wp-content/uploads/2023/05/Fruit-e1685128440565.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
     background-position:48% 52%;
     width: 100%;
  }
-.main h1{
-  font-size: 4rem;
-  font-weight: 700;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+.main h1
+{
+font-size: 4rem;
+font-weight: 700;
 }
-.btn1{
-  height: 45px;
-  width: 35%;
-  border: none;
-  outline: none;
-  background-color: rgb(102, 101, 110);
-  colour: whitesmoke;
-  font-weight: 700;
-  border-radius: 60px;
-  text-decoration: rgb(58, 56, 120);
+.btn1
+{
+height: 45px;
+width: 35%;
+border: none;
+outline: none;
+background-color: rgb(102, 101, 110);
+colour: whitesmoke;
+font-weight: 700;
+border-radius: 60px;
+text-decoration: rgb(58, 56, 120);
 }
 .btn1:hover{
-  background-color: rgb(138, 45, 45);
-  transition: 0.5s;
+background-color: rgb(138, 45, 45);
+transition: 0.5s;
 }
 h1{
-  font-weight: 70;
+font-weight: 70;
   }
 .card:hover{
-  box-shadow: 10px 10px 20px 16px rgba(127, 95, 95, 0.69);
+box-shadow: 10px 10px 20px 16px rgba(127, 95, 95, 0.69);
 -webkit-box-shadow: 10px 10px 20px 16px rgba(0,0,0,0.69);
 -moz-box-shadow: 10px 10px 20px 16px rgba(0,0,0,0.69);
 transition: 0.9s;
 }
 .apple{
-  background: url(./banner-6.jpg)no-repeat;
-  background-size: cover;
-  height: 80vh;
-  width: 100%;
+background: url(./banner-6.jpg)no-repeat;
+background-size: cover;
+height: 80vh;
+width: 100%;
 }
 .apple h1{
-  font-family: 'Lobster', cursive;
+font-family: 'Lobster', cursive;
 }
 .news{
-  background-color: rgb(85, 85, 158);
+background-color: rgb(85, 85, 158);
   colour: whitesmoke;
 }
 .btn2{
-  height:45px;
-  width:100px;
-  background:white;
-  margin-left: -10px;
-  border: 2px solid rgb(187, 128, 128);
-  font-weight: 600;
+height:45px;
+width:100px;
+background:white;
+margin-left: -10px;
+border: 2px solid rgb(187, 128, 128);
+font-weight: 600;
 }
 .news input{
 height: 45px;
@@ -110,8 +112,10 @@ margin-top: 20px;
 font-weight: 600;
 }
 .news::placeholder{
-  color: rgb(44, 39, 39);
-
+color: rgb(44, 39, 39);
+}
+.container py5{
+  background-color: brown;
 }
 
   

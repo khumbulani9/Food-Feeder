@@ -16,32 +16,31 @@ With your team, you'll conceive and execute a design that solves a real-world pr
 
 For this Assignment, we will be working on a responsive E commerce food website, known as Food Feeder which is designed to advertise the company s wide variety of products and similalrly to provide information with regrads to the products on sale. Furthermore, the application provides key information about each product, providing the benefits and reasons to purchase and consume the product. 
 
-## Screenshots
+
 
 ## Screenshots
 
-![Screenshot 1](![Screenshot 2024-03-22 164213](https://github.com/khumbulani9/Food-Feeder/assets/146132836/5c17b719-472f-4bad-a72f-f03a30c7af42)
-)
+(https://github.com/khumbulani9/Food-Feeder/assets/146132836/5c17b719-472f-4bad-a72f-f03a30c7af42)
 
-#### Add Income:
-![Screenshot 2](![Screenshot 2024-03-22 164233](https://github.com/khumbulani9/Food-Feeder/assets/146132836/7e8f91d5-9cd5-45a4-9c37-d5be7914cf30)
-)
 
-#### Add Expense:
-![Screenshot 3](![Screenshot 2024-03-22 164249](https://github.com/khumbulani9/Food-Feeder/assets/146132836/ae27cfb2-262f-486c-9c6d-40337bf343c8)
-)
+####
+(https://github.com/khumbulani9/Food-Feeder/assets/146132836/7e8f91d5-9cd5-45a4-9c37-d5be7914cf30)
 
-![Screenshot 3](![Screenshot 2024-03-22 164249](![Screenshot 2024-03-22 164813](https://github.com/khumbulani9/Food-Feeder/assets/146132836/bcd6d54c-802c-447c-b46b-41d97bc520cf)
-)
 
-![Screenshot 3](![Screenshot 2024-03-22 164249](![Screenshot 2024-03-22 164813](https://github.com/khumbulani9/Food-Feeder/assets/146132836/9582d0c4-8e4b-41c6-99fd-929b3d0f6356)
-)
+#### 
+(https://github.com/khumbulani9/Food-Feeder/assets/146132836/ae27cfb2-262f-486c-9c6d-40337bf343c8)
 
-![Screenshot 3](![Screenshot 2024-03-22 164249](![Screenshot 2024-03-22 164826](https://github.com/khumbulani9/Food-Feeder/assets/146132836/1c2a5b78-393d-44e0-84cf-9d4003d27c9a)
-)
 
-![Screenshot 3](![Screenshot 2024-03-22 164249](![Screenshot 2024-03-22 164839](https://github.com/khumbulani9/Food-Feeder/assets/146132836/10897d9e-a9cb-412d-8f1f-1a0cfa595f7d)
-)
+(![Screenshot 2024-03-22 164249](![Screenshot 2024-03-22 164813](https://github.com/khumbulani9/Food-Feeder/assets/146132836/bcd6d54c-802c-447c-b46b-41d97bc520cf)
+
+
+(![Screenshot 2024-03-22 164813](https://github.com/khumbulani9/Food-Feeder/assets/146132836/9582d0c4-8e4b-41c6-99fd-929b3d0f6356)
+
+(![Screenshot 2024-03-22 164249](![Screenshot 2024-03-22 164826](https://github.com/khumbulani9/Food-Feeder/assets/146132836/1c2a5b78-393d-44e0-84cf-9d4003d27c9a)
+
+
+(![Screenshot 2024-03-22 164249](![Screenshot 2024-03-22 164839](https://github.com/khumbulani9/Food-Feeder/assets/146132836/10897d9e-a9cb-412d-8f1f-1a0cfa595f7d)
+
 
 
 ## Link to Site

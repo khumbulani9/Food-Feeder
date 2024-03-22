@@ -14,17 +14,11 @@ With your team, you'll conceive and execute a design that solves a real-world pr
 ## Description
 With your team, you'll conceive and execute a design that solves a real-world problem by integrating data received from multiple server-side API requests. You'll also learn about agile development methodologies to help you work collaboratively. You'll implement feature and bug fixes using Git branch workflow and pull requests. 
 
-For this Assignment, we will be working on a responsive E commerce food website, known as Food Feeder which is designed to advertise the company s wide variety of products and similalrly to provide information with regrads to the products on sale. Furthermore, the application provides key information about each product, providing the benefits and reasons to purchase and consume the product. 
+For this Assignment, we will be working on a responsive E commerce food website, known as Food Feeder which is designed to advertise the company s wide variety of products such as the smoothies and the energy drink, and similalrly to provide more information with regrads to the products on sale. Furthermore, the application provides key information about the specific benefits and common advertisement for the viewer and hinting at the benefits and reasons to purchase and consume the products.
 
 
 
 ## Screenshots
-
-(https://github.com/khumbulani9/Food-Feeder/assets/146132836/5c17b719-472f-4bad-a72f-f03a30c7af42)
-
-
-####
-(https://github.com/khumbulani9/Food-Feeder/assets/146132836/7e8f91d5-9cd5-45a4-9c37-d5be7914cf30)
 
 
 #### 
@@ -46,6 +40,10 @@ For this Assignment, we will be working on a responsive E commerce food website,
 ## Link to Site
 
 This site can be accessed on GitPages [https://khumbulani9.github.io/Food-Feeder/]
+
+## Github repository
+
+(https://github.com/khumbulani9/Food-Feeder/assets/146132836/7e8f91d5-9cd5-45a4-9c37-d5be7914cf30)
 
 ## Credits
 
